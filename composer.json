@@ -1,0 +1,21 @@
+{
+  "name": "ironflow/installer",
+  "description": "Interactive installer for IronFlow Framework",
+  "type": "library",
+  "require": {
+    "symfony/console": "^7.2",
+    "symfony/process": "^6.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Ironflow\\Installer\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Aure",
+      "email": "147180124+AureDulvresse@users.noreply.github.com"
+    }
+  ]
+}
