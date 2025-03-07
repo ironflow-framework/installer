@@ -129,5 +129,6 @@ class Setup
          ]
       );
       $configGenerator->generate();
+      
    }
 }
